@@ -1,0 +1,11 @@
+Algoritmo calculPercentatge
+	Escribir 'Preu del article: '
+	Leer preuArticle
+	Escribir 'Preu de venta real: '
+	Leer preVenta
+	// calcular descompte
+	descompte <- preuArticle - preVenta
+	// carlcular percentatge
+	percentage <- (descompte/preVenta)*100
+	Escribir 'El percentaje de descompte es: ', percentage, '%'
+FinAlgoritmo

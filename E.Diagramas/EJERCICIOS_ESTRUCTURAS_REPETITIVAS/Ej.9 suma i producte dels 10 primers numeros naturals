@@ -1,0 +1,16 @@
+Algoritmo sumaYProducte10PrimersNumeros
+	suma <- 0
+	producte <- 1 // iniciem la variable suma en 0
+	contador <- 1 // iniciem la varieble producte en 1 per a no multiplicar per 0 
+	Mientras contador<=10 Hacer // iniciem el contador en 1
+		// suma el numero per el seguent numero del contador 
+		suma <- suma+contador // repetim el bucle fins que contador siga 10
+		// multiplica el numero per el seguent numero
+		producte <- producte*contador
+		// fa que le contador pase al seguent numero natural
+		contador <- contador+1
+	FinMientras
+	// escriu el resultat de les operacions 
+	Escribir 'La suma dels 10 primers numeros naturals es: ', suma
+	Escribir 'El producte dels 10 primers numeros naturals es: ', producte
+FinAlgoritmo

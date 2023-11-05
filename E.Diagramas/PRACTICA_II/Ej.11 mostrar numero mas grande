@@ -1,0 +1,18 @@
+Algoritmo mostraNumMesGran
+	
+	//ingresar els numeros per teclat
+	Escribir "Escriu el primer numero"
+	leer num1
+	Escribir "Escriu el segon numero"
+	Leer  num2
+	
+	//comprobar quin es el major 
+	Si num1 > num2 Entonces
+		numeroMajor = num1
+	SiNo 
+		numeroMajor = num2
+	Fin Si
+	
+	//mostrar el numero mes gran
+	Escribir "El numero mes gran es: ", numeroMajor
+FinAlgoritmo

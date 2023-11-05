@@ -1,0 +1,10 @@
+Algoritmo contadorFins200De1En1
+	contador <- 1
+	Escribir 'Els numeros parells entre 1 y 200 son: ' // contador inicia en 1 
+	Mientras contador<=200 Hacer
+		Si contador MOD 2==0 Entonces
+			Escribir contador // mostrar contador si es parell
+		FinSi
+		contador <- contador+1
+	FinMientras // sumar 1 al contador cada volta 
+FinAlgoritmo

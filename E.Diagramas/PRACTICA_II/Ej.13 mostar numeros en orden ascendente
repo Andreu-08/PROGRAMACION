@@ -1,0 +1,19 @@
+Algoritmo ordenarNumerosAscendent
+	
+	//llegir numeros escrits per teclat
+	Escribir "Escriu el primer numero: "
+	Leer numero1
+	
+	Escribir "Escriu el segon numero: "
+	Leer numero2
+	
+	//ordenar els numeros de menor a major 
+	
+	Si numero1 > numero2 Entonces
+		Escribir numero2
+		Escribir numero1
+	SiNo
+		Escribir numero1
+		Escribir numero2
+	Fin Si
+FinAlgoritmo

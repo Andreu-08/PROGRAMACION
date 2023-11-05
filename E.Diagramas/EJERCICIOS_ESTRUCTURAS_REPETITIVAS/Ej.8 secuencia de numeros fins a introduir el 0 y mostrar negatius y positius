@@ -1,0 +1,29 @@
+Algoritmo mostraNegatiusIPositiusSecuencia
+	contadorNegatius <- 0
+	contadorPositius <- 0
+	// se posen els numeros per teclat i el 0 si vols detindre la secuencia 
+	Escribir 'Marca una secuencia de numeros, introdueix el 0 per a detindre'
+	Leer numero
+	
+	
+	//si el numero no es igual  0 segiur demanant numeros
+	Mientras numero<>0 Hacer
+		Si numero<0 Entonces
+			contadorNegatius <- contadorNegatius+1
+		SiNo
+			contadorPositius <- contadorPositius+1
+		FinSi
+		Leer numero
+	FinMientras
+	
+	//si el contador de negatius es major o menor que 0 mostrar els mensajes 
+	Si contadorNegatius>0 Entonces
+		Escribir 'Se han llegit numeros negatius.'
+	SiNo
+		Escribir 'No se han llegit numeros negatius.'
+	FinSi
+	
+	//escriure la cantitat de numeros negatius i positius que se han introduit 
+	Escribir 'Numeros positius: ', contadorPositius
+	Escribir 'Nuemros negatius: ', contadorNegatius
+FinAlgoritmo

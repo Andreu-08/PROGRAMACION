@@ -1,0 +1,23 @@
+Algoritmo numeroMesGranOIgual
+	
+	//ingresar numeros per teclat 
+	Escribir "Escriu el primer numero: "
+	Leer num1
+	Escribir "Escriu el segon numero: "
+	Leer num2
+	
+	//comparacio de numeros per comprobar quin es mes gran o si son iguals 
+	
+	Si num1 > num2 Entonces
+		Escribir "El numero mes gran es: ", num1
+	SiNo Si num2 > num1 
+			Escribir "El numero mes gran es: ", num2
+		SiNo
+			Escribir "Els numeros sin iguals"
+			
+		FinSi
+    FinSi
+	
+FinAlgoritmo
+
+	

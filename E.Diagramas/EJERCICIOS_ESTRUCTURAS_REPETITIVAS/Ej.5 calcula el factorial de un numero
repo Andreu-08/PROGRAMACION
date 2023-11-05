@@ -1,0 +1,19 @@
+Algoritmo calculFactorial
+	
+	//Llegir numero N per teclat 
+	Escribir "Escriu numero per a calcular el factorial:"
+	Leer N 
+	
+	factorial <- 1 //El factorial começa en 1 
+	
+	si N < 0 Entonces
+		Escribir "No es pot calcular el factorial"
+	SiNo
+		Para i Desde 1 Hasta N Hacer
+			factorial <- factorial * i  //calcul del factorial
+		FinPara
+		
+		Escribir  "El factorial de ", N, " es ", factorial
+	FinSi
+	
+FinAlgoritmo

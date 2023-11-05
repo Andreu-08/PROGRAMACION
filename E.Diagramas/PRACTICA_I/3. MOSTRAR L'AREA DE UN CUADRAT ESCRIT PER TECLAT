@@ -1,0 +1,6 @@
+Algoritmo areaCuadrado
+	Escribir "ingresar la longitud del lado: "
+	Leer lado 
+		area <- lado*lado
+	Escribir 'El area es igual a ', area
+FinAlgoritmo

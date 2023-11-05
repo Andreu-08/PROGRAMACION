@@ -1,0 +1,11 @@
+Algoritmo mostrarMajorDeEdad
+	
+	//registrar edad
+	Escribir "EDAD"
+	Leer edad
+	
+	//comprobar si eres major de 18 y mostrar misatge nomes si ho som
+	Si edad >= 18 Entonces 
+		Escribir "Eres major de edad"
+	FinSi
+FinAlgoritmo

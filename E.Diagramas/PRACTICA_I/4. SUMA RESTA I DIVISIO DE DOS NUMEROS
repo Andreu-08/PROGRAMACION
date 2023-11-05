@@ -1,0 +1,20 @@
+Algoritmo sumaRestaDivisionMultiplicaion
+	
+	Escribir "Ingresar el primer numero "
+		Leer num1
+	Escribir "Ingresar el segundo numero "
+		Leer num2
+		
+		// Operaciones
+		suma <- num1 + num2
+		resta <- num1 - num2
+		multiplicaion <- num1 * num2
+		division <- num1 / num2
+		
+		// Resultados 
+	Escribir "La suma es: ", suma
+	Escribir "La resta es: ", resta
+	Escribir "La multiplicacion es: ", multiplicaion
+	Escribir "La division es: ", division
+	
+FinAlgoritmo

@@ -1,0 +1,22 @@
+Algoritmo mesGranDe3Numeros
+	
+	//ingresar numeros per teclat 
+	Escribir "Escriu el primer nuemro: "
+	Leer num1
+	Escribir "Escriu el segon nuemro: "
+	Leer num2
+	Escribir "Escriu el tercer nuemro: "
+	Leer num3
+	
+	//comparar numeros per a comprobar quin es el  mes gran
+	Si num1 > num2 y num1 > num3 Entonces
+		Escribir "El numero mes gran es: ", num1
+		//incorporar el sino sempre dins del segon si
+	SiNO si num2 > num1 y num2 > num3 entonces
+			Escribir "El numero mes gran es: ", num2
+		SiNo
+			Escribir "El numero mes gran es: ", num3
+		FinSi
+		
+	Fin Si
+FinAlgoritmo

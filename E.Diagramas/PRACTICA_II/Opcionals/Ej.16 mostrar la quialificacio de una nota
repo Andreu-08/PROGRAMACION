@@ -1,0 +1,27 @@
+Algoritmo qualificacioAlfabetica
+	//escriure la qualificació
+	Escribir "Escriu la qualificacio: " 
+	Leer Qualificacio
+	
+	//comprobar la cualificacio y mostrar resultats
+	Si Qualificacio < 3 Entonces
+		resultat <- "Molt Deficient"
+	SiNo
+		si Qualificacio < 5 Entonces
+			resultat <- "Insuficient"
+		SiNo
+			si Qualificacio < 6 Entonces
+				resultat <- "Be"
+			SiNo
+				si Qualificacio < 9 Entonces
+					resultat <- "Notable"
+				SiNo
+					resultat <- "Exelent"
+				FinSi
+			FinSi
+		FinSi
+	FinSi
+	
+	//escriure resultat
+	Escribir "La qualificacio es: ", resultat
+FinAlgoritmo

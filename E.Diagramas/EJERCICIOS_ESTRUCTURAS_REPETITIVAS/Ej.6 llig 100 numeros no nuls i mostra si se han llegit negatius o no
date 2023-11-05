@@ -1,0 +1,21 @@
+Algoritmo llegirNumerosNegatius 
+	
+	//començar el contador de numeros negatius en 0
+	contador <- 0
+	
+	para i <- 1 Hasta 100 Hacer //fa que el codi se execute 100 vegades amb un valor diferent de i
+		numero <- Aleatorio (-10, 10)// llig 100 numeros aleatoris
+		Si numero < 0 Entonces
+			contador <- contador + 1
+		FinSi
+	FinPara
+	
+	si contador > 0 Entonces
+		Escribir "Se han llegit numeros negatius"
+	SiNo
+		Escribir "No se han llegit numeros negatius"
+	FinSi
+	
+	
+	
+FinAlgoritmo

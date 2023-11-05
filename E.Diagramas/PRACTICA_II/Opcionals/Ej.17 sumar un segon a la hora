@@ -1,0 +1,25 @@
+Algoritmo horaMesUnSegon
+	// escriure hora minuts y segons per teclat 
+	Escribir 'Escriu la hora: '
+	Leer hora
+	Escribir 'Escriu els minuts: '
+	Leer minuts
+	Escribir 'Escriu segons: '
+	Leer segons
+	// sumar un segon
+	segons <- segons+1
+	// comprobar la hora y els minuts per si pasen de 59
+	Si segons >= 60 Entonces
+		segons <- 00
+		minuts <- 00
+		Si minuts >= 60 Entonces
+			minuts <- 00
+			hora <- hora+1
+			Si hora>= 24 Entonces
+				hora <- 00
+			FinSi
+		FinSi
+	FinSi
+	// mostrar la hora en un segon mes 
+	Escribir 'La hora despres de un segon es: ', hora, ':', minuts, ':', segons
+FinAlgoritmo

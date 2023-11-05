@@ -1,0 +1,13 @@
+Algoritmo numerosParellsFins200
+	
+	//iniciar contador en 2 
+	contador <- 2
+	
+	Escribir "Els numeros parells entre 1 y 200 son: "
+	
+	Mientras contador <= 200 Hacer //repetir fins que el numero siga 200
+		Escribir contador //mostrar valor del contador
+		contador <- contador + 2 //suma 2 cada volta del bucle 
+	FinMientras
+	
+FinAlgoritmo

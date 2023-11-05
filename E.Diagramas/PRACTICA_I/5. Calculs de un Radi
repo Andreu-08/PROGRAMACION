@@ -1,0 +1,15 @@
+Algoritmo calculsRadi
+	// llegir radi
+	Escribir 'Longitud del radi '
+	Leer radi
+	// longitud circunferencia
+	longitudCircunferncia <- 2*3.1416*radi
+	// area del cercle
+	areaCercle <- 3.1416*radi^2
+	// volum del cercle 
+	volumEsfera <- 3/4*3.1416*radi^3
+	// mostrar resultats
+	Escribir 'La longitud de la circunferencia es ', longitudCircunferncia
+	Escribir 'El area del cercle es ', areaCercle
+	Escribir 'El volum de la esfera es ', volumEsfera
+FinAlgoritmo

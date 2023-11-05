@@ -1,0 +1,13 @@
+Algoritmo positiuONegatiu
+
+	// ingresar numero per teclat 
+	Escribir "Escriu un numero: "
+	Leer numero
+	
+	//comprovar si es positiu o negatiu 
+	Si numero >= 0 Entonces
+		Escribir  "El numero es positiu"
+	SiNo
+		Escribir "El numero es negatiu"
+	Fin Si
+FinAlgoritmo

@@ -1,0 +1,5 @@
+Algoritmo areaCuadrado
+	lado <- 5
+	area <- lado*lado
+	Escribir 'El area es igual a ', area
+FinAlgoritmo

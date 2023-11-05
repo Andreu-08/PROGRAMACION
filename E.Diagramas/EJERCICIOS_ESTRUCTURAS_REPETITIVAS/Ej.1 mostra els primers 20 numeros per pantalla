@@ -1,0 +1,15 @@
+Algoritmo primers20Nums
+	
+	//contador começa en 1
+	contador <- 1
+	
+	Escribir  "Els 20 primers numeros naturals son: "
+	
+	Mientras contador <= 20 Hacer
+		Escribir contador // mentres siga menor de 20 mostrar el contador
+		
+		//Aumentar contador en 1 
+		contador <- contador + 1
+	FinMientras
+	
+FinAlgoritmo

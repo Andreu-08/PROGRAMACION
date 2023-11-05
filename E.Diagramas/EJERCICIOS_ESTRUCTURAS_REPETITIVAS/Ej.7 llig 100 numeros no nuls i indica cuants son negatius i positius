@@ -1,0 +1,22 @@
+Algoritmo contarNumeroNegatiusiPositius 
+	
+	//començar el contador de numeros negatius i positius
+	contadorNegatius <- 0
+	contadorPositius <- 0
+	
+	para i <- 1 Hasta 100 Hacer //fa que el codi se execute 100 vegades amb un valor diferent de i
+		numero <- Aleatorio (-10, 10)// llig 100 numeros aleatoris
+		
+		Si numero < 0 Entonces
+			contadorNegatius <- contadorNegatius + 1
+		SiNo
+			contadorPositius <- contadorPositius + 1
+		FinSi
+	FinPara
+	
+	//indica el numero de negatius i positius que ha llegit 
+	Escribir "Numeros negatius: ", contadorNegatius
+	Escribir "Numeros positius: ", contadorPositius
+	
+	
+FinAlgoritmo

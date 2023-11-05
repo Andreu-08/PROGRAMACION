@@ -1,0 +1,13 @@
+Algoritmo sin_titulo
+	
+	//solicitar que se ingrese la distancia 
+	Escribir "Escriu distancia en milles marines: "
+	Leer distanciaMilles
+	
+	//convertir milles marines en metros
+	distanciaMetros = distanciaMilles * 1852
+	
+	//resultat
+	Escribir  "La distancia en metros es: ", distanciaMetros "m"
+	
+FinAlgoritmo

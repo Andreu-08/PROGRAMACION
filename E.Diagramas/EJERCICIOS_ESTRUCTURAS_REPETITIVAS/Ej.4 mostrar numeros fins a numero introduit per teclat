@@ -1,0 +1,20 @@
+Algoritmo mostrarNumerosDe1HastaN
+	
+	//demanar que se ingrese el numero (N) per teclat
+	Escribir "Ingresa el numero N: "
+	Leer N 
+	
+	//definir variable contador comença en 1
+	contador <- 1
+	
+	//mostrar els numeros de 1 fins a N (introduit per teclat)
+	Escribir "Els numeros de 1 fins a N son: "
+	
+	mientras contador <= N Hacer //repetir fins que el numero aplegue a N
+		Escribir contador // mostrar el valor
+		contador <- contador + 1 //sumar 1 al valor 
+	FinMientras
+	
+	
+	
+FinAlgoritmo
