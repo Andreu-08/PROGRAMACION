@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/EJERCICIOS ARRAYS/EJERCICIOS ARRAYS.iml" filepath="$PROJECT_DIR$/EJERCICIOS ARRAYS/EJERCICIOS ARRAYS.iml" />
       <module fileurl="file://$PROJECT_DIR$/EJERCICIOS BUCLES JAVA/EJERCICIOS BUCLES JAVA.iml" filepath="$PROJECT_DIR$/EJERCICIOS BUCLES JAVA/EJERCICIOS BUCLES JAVA.iml" />
       <module fileurl="file://$PROJECT_DIR$/EJERCICIOS CONDICIONALS JAVA/EJERCICIOS CONDICIONALS JAVA.iml" filepath="$PROJECT_DIR$/EJERCICIOS CONDICIONALS JAVA/EJERCICIOS CONDICIONALS JAVA.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JAVA.iml" filepath="$PROJECT_DIR$/.idea/JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EJERCICIOS BUCLES JAVA/NUMEROS ALEATORIS/NUMEROS ALEATORIS.iml" filepath="$PROJECT_DIR$/EJERCICIOS BUCLES JAVA/NUMEROS ALEATORIS/NUMEROS ALEATORIS.iml" />
     </modules>
   </component>
 </project>
