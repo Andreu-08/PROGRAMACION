@@ -11,20 +11,20 @@ public class PalsDeLaVaralla_2 {
          int palCarta = varalla.nextInt(4) + 1;
 
         //Asi asignem una lletra a la carta segons el seu numero ya que no son valors numerics
-        String carta = "";
+        String carta = " ";
 
         switch (numCarta) {
             case 1:
-                carta = carta + "As";
+                carta = carta + " As";
                 break;
             case 11:
-                carta = carta + "J";
+                carta = carta + " J";
                 break;
             case 12:
-                carta = carta + "Q";
+                carta = carta + " Q";
                 break;
             case 13:
-                carta = carta + "K";
+                carta = carta + " K";
                 break;
             default:
                carta = String.valueOf(numCarta);
@@ -32,21 +32,21 @@ public class PalsDeLaVaralla_2 {
         }
         switch (palCarta) {
             case 1:
-                carta = carta + "piques";
+                carta = carta + " piques";
                 break;
             case 2:
-                carta = carta + "cors";
+                carta = carta + " cors";
                 break;
             case 3:
-                carta = carta + "diamants";
+                carta = carta + " diamants";
                 break;
             case 4:
-                carta = carta + "trevols";
+                carta = carta + " trevols";
                 break;
 
         }
 
-
+        System.out.println("La carta generada al azar es: " + carta);
 
     }
 }
