@@ -2,7 +2,6 @@ package arrays;
 
 public class EjemploStringArray {
     public static void main(String[] args) {
-
         String[] palabras = {"albaricoque", "Alonso", "treinta y tres", "trembolona", "helicoptero"};
 
         String larga="";

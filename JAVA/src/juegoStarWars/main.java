@@ -6,5 +6,6 @@ public class main {
         inicio.inicio();
         //al presionar intro continuaremos con la classe nivel1
         nivel1.inicioJuego();
+
     }
 }

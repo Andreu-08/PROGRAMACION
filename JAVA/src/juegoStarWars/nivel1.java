@@ -1,7 +1,7 @@
 package juegoStarWars;
 
-import java.util.Random;
-import java.util.Scanner;
+import java.util.*;
+
 
 public class nivel1 {
     public static void inicioJuego(){
