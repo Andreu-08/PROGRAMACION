@@ -1,6 +1,0 @@
-operadores relacionales, aritmeticos, logicos etc
-
-tema 2 if while for
-
-
-arrays 
