@@ -3,6 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Battleship/Battleship.iml" filepath="$PROJECT_DIR$/Battleship/Battleship.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Excepcions/Excepcions.iml" filepath="$PROJECT_DIR$/Excepcions/Excepcions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Exceptions.iml" filepath="$PROJECT_DIR$/.idea/modules/Exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Exceptions.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Exceptions.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Exceptions.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Exceptions.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POO/POO.iml" filepath="$PROJECT_DIR$/POO/POO.iml" />
       <module fileurl="file://$PROJECT_DIR$/PROYECTOS.iml" filepath="$PROJECT_DIR$/PROYECTOS.iml" />
     </modules>
   </component>

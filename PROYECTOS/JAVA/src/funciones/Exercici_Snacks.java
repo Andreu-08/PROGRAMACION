@@ -123,6 +123,7 @@ public class Exercici_Snacks {
         System.out.println("Introdueix la contrasenya per omplir la màquina:");
         String contrasenya = teclado.next();
         if (contrasenya.equals("123456789")) {
+            imprimirMS();
             System.out.println("Introdueix la posició del snack (fila i columna):");
             int fila = teclado.nextInt();
             int columna = teclado.nextInt();
@@ -141,9 +142,6 @@ public class Exercici_Snacks {
         System.out.println("Ventes Totals: " + ventas + "\n" +
                 "Maquina Apagada");
     }
-
-
-
 
 }
 
