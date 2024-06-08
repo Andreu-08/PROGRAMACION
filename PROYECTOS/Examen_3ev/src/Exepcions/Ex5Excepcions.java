@@ -1,8 +1,8 @@
-package Exercicis_Exepcions_1a7;
+package Exepcions;
 
 import java.util.Scanner;
 
-public class Ej_Excepcions5 {
+public class Ex5Excepcions {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);

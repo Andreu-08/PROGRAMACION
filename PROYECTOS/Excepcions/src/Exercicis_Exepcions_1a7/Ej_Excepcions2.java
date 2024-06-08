@@ -1,4 +1,4 @@
-package Exercicis_Exepcions_1a10;
+package Exercicis_Exepcions_1a7;
 import java.util.*;//incluye el manejo de las Excepciones
 public class Ej_Excepcions2 {
     public static void main(String[] args)

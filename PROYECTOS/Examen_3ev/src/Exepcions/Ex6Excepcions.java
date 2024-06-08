@@ -1,6 +1,6 @@
-package Exercicis_Exepcions_1a7;
+package Exepcions;
 import java.util.*;
-public class Ej_Excepcions6_CalcularDensitat {
+public class Ex6Excepcions {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);//captura la entrada de l'usuari

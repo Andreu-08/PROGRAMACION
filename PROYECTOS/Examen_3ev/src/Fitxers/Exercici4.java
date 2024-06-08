@@ -1,6 +1,6 @@
-package Gestio_Fitxers1.Entregables_4y5;
+package Fitxers;
 import java.io.File;
-public class Ex4_gestioFitxers1 {
+public class Exercici4 {
     public static void main(String args[]) {
         // Creem instàncies de la classe FILE amb les RUTES RELATIVES de les carpetes que volem crear
         File lesMeuesCoses = new File("C:\\Users\\Andreu\\OneDrive - Conselleria d'Educació\\DAW\\PROGRAMACION\\PROYECTOS\\Fitxers\\Documentos\\Mis Cosas");

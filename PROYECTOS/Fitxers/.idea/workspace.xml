@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f3f003af-a46a-47b2-b799-082e167e0a9a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/PROGRAMACION.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen_3ev/Examen_3ev.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen_3ev/src/Exepcions/Ex10Excepcions/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen_3ev/src/Exepcions/Ex10Excepcions/Exceptions/DepositNegatiu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen_3ev/src/Exepcions/Ex10Excepcions/Exceptions/FonsInsuficients.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen_3ev/src/Exepcions/Ex10Excepcions/provaClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen_3ev/src/Exepcions/Ex1Excepcions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen_3ev/src/Exepcions/Ex2Excepcions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen_3ev/src/Exepcions/Ex3Excepcions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen_3ev/src/Exepcions/Ex4Excepcions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen_3ev/src/Exepcions/Ex5Excepcions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen_3ev/src/Exepcions/Ex6Excepcions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen_3ev/src/Exepcions/Ex7Excepcions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen_3ev/src/Exepcions/Ex8_9Excepcions/AppGat8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen_3ev/src/Exepcions/Ex8_9Excepcions/AppGat9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen_3ev/src/Exepcions/Ex8_9Excepcions/Gat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen_3ev/src/Exepcions/pdf/BonoMetro.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen_3ev/src/Exepcions/pdf/Consideracions a les exepcions.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen_3ev/src/Exepcions/pdf/Excepcions.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen_3ev/src/Exepcions/pdf/Excepcions2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen_3ev/src/Exepcions/pdf/Exemple 1 Try-Catch-Finally.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen_3ev/src/Exepcions/pdf/Exemple 2 Try-Catch-Finally (1).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen_3ev/src/Exepcions/pdf/Exemple 2 Try-Catch-Finally.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen_3ev/src/Fitxers/EjemploBufferReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen_3ev/src/Fitxers/EjemploReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen_3ev/src/Fitxers/Escriptura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen_3ev/src/Fitxers/Ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen_3ev/src/Fitxers/Ex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen_3ev/src/Fitxers/Ex3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen_3ev/src/Fitxers/Ex4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen_3ev/src/Fitxers/ExemplesFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen_3ev/src/Fitxers/Exercici1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen_3ev/src/Fitxers/Exercici2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen_3ev/src/Fitxers/Exercici3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen_3ev/src/Fitxers/Exercici4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen_3ev/src/Fitxers/Exercici5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen_3ev/src/Fitxers/MetodeSplit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen_3ev/src/Fitxers/pdf/Classe FILE.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen_3ev/src/Fitxers/pdf/Fixers de Text.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Excepcions/Ejercicios_Excepcions_pdf/Cas pràctic BANK v1 + v2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Excepcions/src/Ej_Banco_Grupo6/app_banco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Excepcions/src/Ej_Banco_Grupo6/comprobar_dinero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Excepcions/src/Ej_Banco_Grupo6/cuenta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Excepcions/src/Exercicis_Exepcions_1a7/Ej_Excepcions1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Excepcions/src/Exercicis_Exepcions_1a7/Ej_Excepcions2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Excepcions/src/Exercicis_Exepcions_1a7/Ej_Excepcions3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Excepcions/src/Exercicis_Exepcions_1a7/Ej_Excepcions4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Excepcions/src/Practica_Banc_Exepcions/deparbank/CompteBancari.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Excepcions/src/Practica_Banc_Exepcions/deparbank/DeparBank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Excepcions/src/Practica_Banc_Exepcions/deparbankv2/CompteBancariV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Excepcions/src/Practica_Banc_Exepcions/deparbankv2/DeparBankV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Excepcions/src/Practica_Banc_Exepcions/deparbankv2/Exception/AvisarHisendaException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Excepcions/src/Practica_Banc_Exepcions/deparbankv2/Exception/CompteException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Excepcions/src/Practica_Banc_Exepcions_AndreuOrenga.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CasPractic_Fitxers/Cas Pràctic FITXERS v2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CasPractic_Fitxers/MiniFileManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CasPractic_Fitxers/Miniterminal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Escritura_fitxers/Exemple_Escritura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Escritura_fitxers/exercicis_compartits_writer/Ex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Escritura_fitxers/exercicis_compartits_writer/Ex3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Escritura_fitxers/exercicis_compartits_writer/ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gestio_Fitxers1/Ex1_MostrarInfoFitxers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gestio_Fitxers1/Ex3_MostrarInfoFitxers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lectura_Escritura_Fitxers/E1_MaximMinim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lectura_Escritura_Fitxers/E2_NotesAlumnes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lectura_Escritura_Fitxers/exercicis.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lectura_fitxers/EjemploBufferReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lectura_fitxers/EjemploReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lectura_fitxers/PrimeraLinea_Fixers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA/PROYECTOS.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Excepcions/src/Exemple1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Examen_3ev/src/Exepcions/Exemple1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Excepcions/src/Exercicis_Exepcions1/Ej_Excepcions1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Excepcions/src/Exercicis_Exepcions1/Ej_Exepcions2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Excepcions/src/Exercicis_Exepcions1/Ej_Exepcions3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Excepcions/src/Exercicis_Exepcions1/Ej_Exepcions4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Excepcions/src/Exercicis_Exepcions_5_10/CalcularDensitat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Excepcions/src/Exercicis_Exepcions_5_10/Exercici_5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Excepcions/src/Exercicis_Exepcions_5_10/WaitApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO/Exercici Animals I/Animales/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO/Exercici Animals I/Animales/AppAnimales.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO/Exercici Animals I/Animales/Caballo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO/Exercici Animals I/Animales/Gato.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO/Exercici Animals I/Animales/Perro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO/Exercici Animals I/Figuras/Cercle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO/Exercici Animals I/Figuras/IFigura2D.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO/Exercici Animals I/Figuras/ProgramaFigures.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO/Exercici Animals I/Figuras/Quadrado.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO/Exercici Animals I/Figuras/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO/Exercici Animals I/Figuras/SOLUCION/Cercle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO/Exercici Animals I/Figuras/SOLUCION/IFigura2D.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO/Exercici Animals I/Figuras/SOLUCION/ProgramaFigures.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO/Exercici Animals I/Figuras/SOLUCION/Quadrado.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO/Exercici Animals I/Figuras/SOLUCION/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO/Exercici Animals I/Figuras/SOLUCION/Triangulo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO/Exercici Animals I/Figuras/Triangulo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO/Exercici Animals I/Vehiculos2/Acuatico.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO/Exercici Animals I/Vehiculos2/Aereo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO/Exercici Animals I/Vehiculos2/Avion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO/Exercici Animals I/Vehiculos2/Barco.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO/Exercici Animals I/Vehiculos2/Coche.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO/Exercici Animals I/Vehiculos2/Helicoptero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO/Exercici Animals I/Vehiculos2/Moto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO/Exercici Animals I/Vehiculos2/ProgramaVehiculos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO/Exercici Animals I/Vehiculos2/SOLUCION/Acuatico.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO/Exercici Animals I/Vehiculos2/SOLUCION/Aereo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO/Exercici Animals I/Vehiculos2/SOLUCION/Avion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO/Exercici Animals I/Vehiculos2/SOLUCION/Barco.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO/Exercici Animals I/Vehiculos2/SOLUCION/Coche.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO/Exercici Animals I/Vehiculos2/SOLUCION/Helicoptero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO/Exercici Animals I/Vehiculos2/SOLUCION/Hidroavion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO/Exercici Animals I/Vehiculos2/SOLUCION/Moto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO/Exercici Animals I/Vehiculos2/SOLUCION/ProgramaVehiculos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO/Exercici Animals I/Vehiculos2/SOLUCION/Submarino.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO/Exercici Animals I/Vehiculos2/SOLUCION/Terrestre.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO/Exercici Animals I/Vehiculos2/SOLUCION/Vehiculo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO/Exercici Animals I/Vehiculos2/Submarino.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO/Exercici Animals I/Vehiculos2/Terrestre.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO/Exercici Animals I/Vehiculos2/Vehiculo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO/Exercici Animals I/Version2/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO/Exercici Animals I/Version2/AppAnimales.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO/Exercici Animals I/Version2/Caballo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO/Exercici Animals I/Version2/Gato.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO/Exercici Animals I/Version2/ModificacionDeJoselito/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO/Exercici Animals I/Version2/ModificacionDeJoselito/AppAnimales.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO/Exercici Animals I/Version2/ModificacionDeJoselito/Caballo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO/Exercici Animals I/Version2/ModificacionDeJoselito/Gato.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO/Exercici Animals I/Version2/ModificacionDeJoselito/Perro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO/Exercici Animals I/Version2/Perro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO/Exercici Animals I/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO/POO.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../POO/POO.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Excepcions/Exemple1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Excepcions/Exercicis_Exepcions1/Ej_Excepcions1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Excepcions/Exercicis_Exepcions1/Ej_Exepcions2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Excepcions/Exercicis_Exepcions1/Ej_Exepcions3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Excepcions/Exercicis_Exepcions1/Ej_Exepcions4.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2gPtWH1BrxJa8bweji7TtXUwtiw" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="openDirectoriesWithSingleClick" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+    <option name="sortKey" value="BY_TYPE" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Andreu/OneDrive - Conselleria d'Educació/DAW/PROGRAMACION/PROYECTOS/Fitxers/src/Lectura_Escritura_Fitxers",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f3f003af-a46a-47b2-b799-082e167e0a9a" name="Changes" comment="" />
+      <created>1715611070854</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715611070854</updated>
+      <workItem from="1715611071906" duration="25000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

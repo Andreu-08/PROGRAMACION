@@ -1,4 +1,4 @@
-package grupal;
+package Ej_Banco_Grupo6;
 
 public class comprobar_dinero  extends  Exception{
 

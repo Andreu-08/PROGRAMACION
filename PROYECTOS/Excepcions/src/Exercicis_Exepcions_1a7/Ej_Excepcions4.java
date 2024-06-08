@@ -1,4 +1,4 @@
-package Exercicis_Exepcions_1a10;
+package Exercicis_Exepcions_1a7;
 import java.util.*;
 public class Ej_Excepcions4 {
     public static void main(String[] args) {

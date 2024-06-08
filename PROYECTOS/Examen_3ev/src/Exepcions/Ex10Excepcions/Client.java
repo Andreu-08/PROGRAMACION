@@ -1,7 +1,7 @@
-package Exercicis_Exepcions_8a10.EJ_10;
+package Exepcions.Ex10Excepcions;
 
-import Exercicis_Exepcions_8a10.EJ_10.Exceptions.DepositNegatiu;
-import Exercicis_Exepcions_8a10.EJ_10.Exceptions.FonsInsuficients;
+import Exepcions.Ex10Excepcions.Exceptions.DepositNegatiu;
+import Exepcions.Ex10Excepcions.Exceptions.FonsInsuficients;
 
 public class Client {
 

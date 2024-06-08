@@ -1,9 +1,9 @@
-package Exercicis_Exepcions_1a7;
+package Exepcions;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class Ej_Excepcions7_WaitApp {
+public class Ex7Excepcions {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);

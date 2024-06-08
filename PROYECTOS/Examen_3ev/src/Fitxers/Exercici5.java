@@ -1,8 +1,8 @@
-package Gestio_Fitxers1.Entregables_4y5;
+package Fitxers;
 import java.io.File;
 import java.io.FileNotFoundException;
 
-public class Ex5_gestioFitxers1 {
+public class Exercici5 {
     public static void main(String[] args) {
 
         // Instaciem a la classe FILE amb les rutes relatives a les carpetes que volem esborrar

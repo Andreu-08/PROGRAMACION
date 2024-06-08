@@ -1,3 +1,5 @@
+package Fitxers;
+
 import java.util.Scanner;
 import java.io.*;
 
@@ -73,10 +75,6 @@ public class Exercici1 {
 					System.out.println("[D] "+llistat[i].getName());
 				}
 			}
-			
-			
 		}
-	
 	}
-	
 }

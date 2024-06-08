@@ -1,3 +1,5 @@
+package Fitxers;
+
 import java.util.Scanner;
 import java.util.Date;
 import java.util.Arrays;

@@ -1,4 +1,4 @@
-package Exercicis_Exepcions_8a10.Ej_8_9;
+package Exepcions.Ex8_9Excepcions;
 
 import java.util.ArrayList;
 import java.util.Scanner;

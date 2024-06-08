@@ -1,4 +1,4 @@
-package provetes;
+package Fitxers;
 
 public class MetodeSplit {
 	

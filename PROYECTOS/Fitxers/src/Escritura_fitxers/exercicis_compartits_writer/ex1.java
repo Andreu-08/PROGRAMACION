@@ -1,4 +1,4 @@
-package exercicis_compartits;
+package Escritura_fitxers.exercicis_compartits_writer;
 
 import java.io.FileWriter;
 import java.io.IOException;

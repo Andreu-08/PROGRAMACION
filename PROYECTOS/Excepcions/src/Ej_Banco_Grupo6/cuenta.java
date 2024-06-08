@@ -1,6 +1,4 @@
-package grupal;
-
-import Ejercicio_9.nombreValido;
+package Ej_Banco_Grupo6;
 
 public class cuenta {
 
@@ -9,7 +7,7 @@ public class cuenta {
     public void setSaldo(double saldo) throws comprobar_dinero {
         if (saldo > 0) {
             this.saldo = saldo;
-            System.out.println(" Tu saldo es "+saldo);
+            System.out.println("Tu saldo es "+saldo);
 
         } else throw new comprobar_dinero("El dinero tiene que ser positivo  ");
 
@@ -29,6 +27,4 @@ public class cuenta {
     public void ingresarDinero(int dinero){
         saldo = saldo + dinero;
     }
-
-
 }

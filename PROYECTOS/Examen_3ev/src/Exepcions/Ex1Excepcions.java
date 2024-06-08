@@ -1,3 +1,5 @@
+package Exepcions;
+
 import java.util.*;
 
 public class Ex1Excepcions {

@@ -1,4 +1,4 @@
-package Exercicis_Exepcions_8a10.EJ_10.Exceptions;
+package Exepcions.Ex10Excepcions.Exceptions;
 //clase que hereda de la clase Exeption de Java per a manejar exceptions
 public class FonsInsuficients extends Exception{
     //clase y metode per a manejar la excepcio

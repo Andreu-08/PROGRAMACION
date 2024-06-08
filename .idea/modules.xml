@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PROYECTOS/POO/Exercici Animals I/Banco/Banco.iml" filepath="$PROJECT_DIR$/PROYECTOS/POO/Exercici Animals I/Banco/Banco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PROYECTOS/Battleship/Battleship.iml" filepath="$PROJECT_DIR$/PROYECTOS/Battleship/Battleship.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PROYECTOS/Excepcions/Excepcions.iml" filepath="$PROJECT_DIR$/PROYECTOS/Excepcions/Excepcions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PROYECTOS/POO/Exercici Animals I/Exercici Animals I.iml" filepath="$PROJECT_DIR$/PROYECTOS/POO/Exercici Animals I/Exercici Animals I.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PROYECTOS/POO/POO.iml" filepath="$PROJECT_DIR$/PROYECTOS/POO/POO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PROGRAMACION.iml" filepath="$PROJECT_DIR$/.idea/PROGRAMACION.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PROYECTOS/JAVA/PROYECTOS.iml" filepath="$PROJECT_DIR$/PROYECTOS/JAVA/PROYECTOS.iml" />
+    </modules>
+  </component>
+</project>

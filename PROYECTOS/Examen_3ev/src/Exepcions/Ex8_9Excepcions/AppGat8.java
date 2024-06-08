@@ -1,4 +1,4 @@
-package Exercicis_Exepcions_8a10.Ej_8_9;
+package Exepcions.Ex8_9Excepcions;
 
 public class AppGat8 {
     public static void main(String[] args) {
